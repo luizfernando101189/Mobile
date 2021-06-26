@@ -7,7 +7,7 @@ import android.content.DialogInterface
         import android.util.Log
         import android.widget.*
         import androidx.appcompat.app.AlertDialog
-        import com.joseffe.aula05.Usuario
+        import com.luiz.aula05.Usuario
         import kotlinx.android.synthetic.main.activity_main.*
         import java.util.*
 
